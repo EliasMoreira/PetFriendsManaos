@@ -1,0 +1,58 @@
+*.iml
+.PetFriendsManaosMobile/.gradle
+.PetFriendsManaosMobile/local.properties
+.PetFriendsManaosMobile/.idea/caches
+.PetFriendsManaosMobile/.idea/libraries
+.PetFriendsManaosMobile/.idea/modules.xml
+.PetFriendsManaosMobile/.idea/workspace.xml
+.PetFriendsManaosMobile/.idea/navEditor.xml
+.PetFriendsManaosMobile/.idea/assetWizardSettings.xml
+.PetFriendsManaosMobile/.DS_Store
+.PetFriendsManaosMobile/build
+.PetFriendsManaosMobile/captures
+.PetFriendsManaosMobile/.externalNativeBuild
+.PetFriendsManaosMobile/.cxx
+.PetFriendsManaosMobile/local.properties
+
+# compiled output
+.pet-manaos-backend/dist
+.pet-manaos-backend/node_modules
+
+# Logs
+.pet-manaos-backend/logs
+.pet-manaos-backend/*.log
+.pet-manaos-backend/npm-debug.log*
+.pet-manaos-backend/pnpm-debug.log*
+.pet-manaos-backend/yarn-debug.log*
+.pet-manaos-backend/yarn-error.log*
+.pet-manaos-backend/lerna-debug.log*
+
+# OS
+.pet-manaos-backend/.DS_Store
+
+# Tests
+.pet-manaos-backend/coverage
+.pet-manaos-backend/.nyc_output
+
+# IDEs and editors
+.pet-manaos-backend/.idea
+.pet-manaos-backend/.project
+.pet-manaos-backend/.classpath
+.pet-manaos-backend/.c9/
+.pet-manaos-backend/*.launch
+.pet-manaos-backend/.settings/
+.pet-manaos-backend/*.sublime-workspace
+
+# IDE - VSCode
+.pet-manaos-backend/.vscode
+.pet-manaos-backend/.vscode/*
+.pet-manaos-backend/!.vscode/settings.json
+.pet-manaos-backend/!.vscode/tasks.json
+.pet-manaos-backend/!.vscode/launch.json
+.pet-manaos-backend/!.vscode/extensions.json
+
+#envs
+.pet-manaos-backend/.env
+
+#images
+.pet-manaos-backend/public
